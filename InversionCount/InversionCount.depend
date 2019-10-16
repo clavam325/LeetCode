@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558274859 source:c:\code\inversioncount\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

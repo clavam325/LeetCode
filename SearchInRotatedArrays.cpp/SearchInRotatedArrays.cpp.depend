@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561880155 source:c:\code\searchinrotatedarrays.cpp\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

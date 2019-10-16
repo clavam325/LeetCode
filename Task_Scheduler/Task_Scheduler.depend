@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560096058 source:c:\code\task_scheduler\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
